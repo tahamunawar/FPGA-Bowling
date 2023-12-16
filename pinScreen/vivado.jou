@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Dec 16 18:02:30 2023
+# Process ID: 10864
+# Current directory: C:/Users/hr08032/Desktop/Final Project Final Folder FINAL/AIK DAM FINAL/pinScreen
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13248 C:\Users\hr08032\Desktop\Final Project Final Folder FINAL\AIK DAM FINAL\pinScreen\pinScreen.xpr
+# Log file: C:/Users/hr08032/Desktop/Final Project Final Folder FINAL/AIK DAM FINAL/pinScreen/vivado.log
+# Journal file: C:/Users/hr08032/Desktop/Final Project Final Folder FINAL/AIK DAM FINAL/pinScreen\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/hr08032/Desktop/Final Project Final Folder FINAL/AIK DAM FINAL/pinScreen/pinScreen.xpr}

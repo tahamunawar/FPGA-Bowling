@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec  6 11:26:13 2023
+# Process ID: 10796
+# Current directory: C:/Users/hr08032/Desktop/pinScreen
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3296 C:\Users\hr08032\Desktop\pinScreen\pinScreen.xpr
+# Log file: C:/Users/hr08032/Desktop/pinScreen/vivado.log
+# Journal file: C:/Users/hr08032/Desktop/pinScreen\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hr08032/Desktop/pinScreen/pinScreen.xpr
+close [ open C:/Users/hr08032/Desktop/pinScreen/pinScreen.srcs/sources_1/new/WelcomeScreen.v w ]
+add_files C:/Users/hr08032/Desktop/pinScreen/pinScreen.srcs/sources_1/new/WelcomeScreen.v
+close [ open C:/Users/hr08032/Desktop/pinScreen/pinScreen.srcs/sources_1/new/bowlingRom2.v w ]
+add_files C:/Users/hr08032/Desktop/pinScreen/pinScreen.srcs/sources_1/new/bowlingRom2.v
+synth_design -rtl -name rtl_1
+synth_design -rtl -name rtl_1

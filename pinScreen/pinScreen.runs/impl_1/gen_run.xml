@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1702732402">
+  <File Type="BITSTR-BMM" Name="topLevelProject_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="topLevelProject_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="topLevelProject_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="topLevelProject_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="topLevelProject.tcl"/>
+  <File Type="OPT-TIMING" Name="topLevelProject_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="topLevelProject_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="topLevelProject_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="topLevelProject_reports.tcl"/>
+  <File Type="OPT-DRC" Name="topLevelProject_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="topLevelProject.hwdef"/>
+  <File Type="PWROPT-DCP" Name="topLevelProject_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="topLevelProject_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="topLevelProject_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="topLevelProject_placed.dcp"/>
+  <File Type="PLACE-IO" Name="topLevelProject_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="topLevelProject_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="topLevelProject_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="topLevelProject_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="topLevelProject_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="topLevelProject_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="topLevelProject_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="topLevelProject_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="topLevelProject_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="topLevelProject.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="topLevelProject_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="topLevelProject_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="topLevelProject_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="topLevelProject.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="topLevelProject_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="topLevelProject_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="topLevelProject_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="topLevelProject_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="topLevelProject_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="topLevelProject_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="topLevelProject_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="topLevelProject.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="topLevelProject_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="topLevelProject_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="topLevelProject_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="topLevelProject_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="topLevelProject_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="topLevelProject_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="topLevelProject_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="topLevelProject_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="topLevelProject_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="topLevelProject_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="topLevelProject_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="topLevelProject_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="topLevelProject_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="topLevelProject_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="topLevelProject_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="topLevelProject_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="topLevelProject_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="topLevelProject_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="topLevelProject_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="topLevelProject_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="topLevelProject_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="topLevelProject.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="topLevelProject_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="topLevelProject.rbt"/>
+  <File Type="BITSTR-NKY" Name="topLevelProject.nky"/>
+  <File Type="PDI-FILE" Name="topLevelProject.pdi"/>
+  <File Type="RCFI_FILE" Name="topLevelProject.rcfi"/>
+  <File Type="CFI_FILE" Name="topLevelProject.cfi"/>
+  <File Type="RNPI_FILE" Name="topLevelProject.rnpi"/>
+  <File Type="NPI_FILE" Name="topLevelProject.npi"/>
+  <File Type="RBD_FILE" Name="topLevelProject.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="topLevelProject.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="topLevelProject.sysdef"/>
+  <File Type="BG-BGN" Name="topLevelProject.bgn"/>
+  <File Type="BG-DRC" Name="topLevelProject.drc"/>
+  <File Type="RDI-RDI" Name="topLevelProject.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/clockdivider.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab9/lab9.srcs/sources_1/new/clockdivider.v"/>
+        <Attr Name="ImportTime" Val="1698226268"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/hcount.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab9/lab9.srcs/sources_1/new/hcount.v"/>
+        <Attr Name="ImportTime" Val="1698228127"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/pixel_gen_cir.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab10/lab10.srcs/sources_1/new/pixel_gen_cir.v"/>
+        <Attr Name="ImportTime" Val="1698830751"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/v_counter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab9/lab9.srcs/sources_1/new/v_counter.v"/>
+        <Attr Name="ImportTime" Val="1698228133"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/vgasync.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab10/lab10.srcs/sources_1/new/vgasync.v"/>
+        <Attr Name="ImportTime" Val="1698831516"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/toplevelLAB11.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab10/lab10.srcs/sources_1/new/toplevelLAB11.v"/>
+        <Attr Name="ImportTime" Val="1698832965"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bowlingRom.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../LAB11/LAB11.srcs/sources_1/new/bowlingRom.v"/>
+        <Attr Name="ImportTime" Val="1701243029"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/finalPinPal.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/finalPin.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/TopLevelBowling.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ir_sensor.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/WelcomeScreen.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bowlingRom2.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Downloads/welcomeBGBLACKwithPIXELGEN/welcomeBGBLACKwithPIXELGEN/welcomeBGBLACKwithPIXELGEN.srcs/sources_1/imports/tinyWelcomeScreen/pal24bit.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../Downloads/welcomeBGBLACKwithPIXELGEN/welcomeBGBLACKwithPIXELGEN/welcomeBGBLACKwithPIXELGEN.srcs/sources_1/imports/tinyWelcomeScreen/finalblackBG.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/zero.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/four.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/six.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/five.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/three.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/masterPal.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/one.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/two.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/oneRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/threeRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/fourRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/fiveRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/zeroRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/sixRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/twoRom.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="topLevelProject"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/test_addsub_const.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../lab7/lab7/lab7.srcs/constrs_1/new/test_addsub_const.xdc"/>
+        <Attr Name="ImportTime" Val="1697019923"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/test_addsub_const.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

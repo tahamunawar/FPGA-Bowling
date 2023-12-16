@@ -1,0 +1,40 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab10.srcs/sources_1/new/TopLevelModuleLab10.v" \
+"../../../../lab10.srcs/sources_1/new/adder_subtractor.v" \
+"../../../../lab10.srcs/sources_1/new/clockdivider.v" \
+"../../../../lab10.srcs/sources_1/new/decoder.v" \
+"../../../../lab10.srcs/sources_1/new/demux.v" \
+"../../../../lab10.srcs/sources_1/new/hcount.v" \
+"../../../../lab10.srcs/sources_1/new/mux.v" \
+"../../../../lab10.srcs/sources_1/new/myAND.v" \
+"../../../../lab10.srcs/sources_1/new/myFULLADDER.v" \
+"../../../../lab10.srcs/sources_1/new/myOR.v" \
+"../../../../lab10.srcs/sources_1/new/myXOR.v" \
+"../../../../lab10.srcs/sources_1/new/pixel_gen_cir.v" \
+"../../../../lab10.srcs/sources_1/new/selective_2c.v" \
+"../../../../lab10.srcs/sources_1/new/threebitFA.v" \
+"../../../../lab10.srcs/sources_1/new/toplevel.v" \
+"../../../../lab10.srcs/sources_1/new/v_counter.v" \
+"../../../../lab10.srcs/sources_1/new/vgasync.v" \
+"../../../../lab10.srcs/sources_1/new/toplevelLAB11.v" \
+"../../../../lab10.srcs/sim_1/new/tb_toplevellab10.v" \
+"../../../../lab10.srcs/sim_1/new/tb_clockdivider.v" \
+"../../../../lab10.srcs/sim_1/new/tb_vcount.v" \
+"../../../../lab10.srcs/sim_1/new/tb_hcount.v" \
+"../../../../lab10.srcs/sim_1/new/tb_toplevel.v" \
+"../../../../lab10.srcs/sim_1/new/tb_demux.v" \
+"../../../../lab10.srcs/sim_1/new/tb_mux.v" \
+"../../../../lab10.srcs/sim_1/new/adder_subtractorTB.v" \
+"../../../../lab10.srcs/sim_1/new/tb_AND.v" \
+"../../../../lab10.srcs/sim_1/new/tb_2c.v" \
+"../../../../lab10.srcs/sim_1/new/threebitTestBench.v" \
+"../../../../lab10.srcs/sim_1/new/tb_FA.v" \
+"../../../../lab10.srcs/sim_1/new/tb_XOR.v" \
+"../../../../lab10.srcs/sim_1/new/decodertb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
